@@ -71,7 +71,7 @@ shinyServer(function(input, output) {
               xlab = tip,
               main = "",
               ylim = c(0, 30),
-              col=c("blue", "red", "green"))
+              col = c("blue", "red", "green"))
     }
     
   })
